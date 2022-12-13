@@ -1,0 +1,9 @@
+.vscode/
+*.jpg
+*.png
+!uiImages/*
+\#main.glade*
+main.glade~
+*../UserInterface/.o
+*.d
+.clang-format

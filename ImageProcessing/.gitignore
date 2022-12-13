@@ -1,0 +1,19 @@
+# Executables
+main
+
+# IDE files
+.vscode/
+
+# Tests
+test*
+verbose*
+
+# Commit message
+COMMIT_MESSAGE
+
+# Images
+Images/*
+!Images/images_[0-9]*.jpeg
+!Images/hexa.png
+board_*/
+saved_images/*

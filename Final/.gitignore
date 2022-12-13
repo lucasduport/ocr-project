@@ -1,0 +1,8 @@
+COMMIT_MESSAGE
+board*
+main
+logs/
+main.glade~
+\#main.glade#
+tmpImg/
+fastSolved/
